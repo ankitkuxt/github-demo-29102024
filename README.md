@@ -1,2 +1,2 @@
-# github-demo-14102024
-Repo for demonstrating GitHub and Git to classmates.
+# github-demo-25102024
+Repo for demonstrating GitHub to classmates.
